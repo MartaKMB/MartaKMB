@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm Marta 👋 🪰
 
-<!--
-**MartaKMB/MartaKMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer who is passionate about creating technology to help people and make them happy. 😁
 
-Here are some ideas to get you started:
+### 🤓 Self-taught front-end developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In 2017, I decided to learn how to code and enjoy the process untill today. ✨ It's never ending story, and I like to learn new things.
+
+I love CSS drawing 🎨 - making nice and funny images on [CodePen](https://codepen.io/martakmb).
+
+Technologie I enjoy working with is React. ⚛️ 
+
+### 👩‍💻 Work experience
+
+I get my first job in tech industry in 2018 at [RSQ Technologies](https://www.rsqtechnologies.com/), where I was involved in developing web (React) apllications.
+
+Last years I worked for my own. 🙌
+
+Outside of programming I'm instructor and book author (I learn owners how to make relaxing pet 🐶 massage). 
+For this project I build websites and I'm currently working at React application for dog owners. 
+
+## 💬 How to reach me:
+* email - m.muchabalcerek@gmail.com
+* making connections on [LinkedIn](https://www.linkedin.com/in/m-mucha-balcerek/)
+
