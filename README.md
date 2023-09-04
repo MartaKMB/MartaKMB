@@ -4,7 +4,7 @@ I'm a front-end developer who is passionate about creating technology to help pe
 
 ### 🤓 Self-taught front-end developer
 
-In 2017, I decided to learn how to code and enjoy the process untill today. ✨ It's never ending story, and I like to learn new things.
+In 2017, I decided to learn how to code and enjoy the process until today. ✨ It's never ending story, and I like to learn new things.
 
 I love CSS drawing 🎨 - making nice and funny images on [CodePen](https://codepen.io/martakmb).
 
@@ -12,7 +12,7 @@ Technologie I enjoy working with is React. ⚛️
 
 ### 👩‍💻 Work experience
 
-I get my first job in tech industry in 2018 at [RSQ Technologies](https://www.rsqtechnologies.com/), where I was involved in developing web (React) apllications.
+I get my first job in tech industry in 2018 at [RSQ Technologies](https://www.rsqtechnologies.com/), where I was involved in developing web (React) applications.
 
 Last years I worked for my own. 🙌
 
