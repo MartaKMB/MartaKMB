@@ -8,7 +8,7 @@ In 2017, I decided to learn how to code and enjoy the process until today. ✨ I
 
 I love CSS drawing 🎨 - making nice and funny images on [CodePen](https://codepen.io/martakmb).
 
-Technologie I enjoy working with is React. ⚛️ 
+I enjoy working with is React. ⚛️ 
 
 ### 👩‍💻 Work experience
 
