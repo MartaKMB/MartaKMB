@@ -6,9 +6,7 @@ I'm a front-end developer who is passionate about creating technology to help pe
 
 In 2017, I decided to learn how to code and enjoy the process until today. ✨ It's never ending story, and I like to learn new things.
 
-I love CSS drawing 🎨 - making nice and funny images on [CodePen](https://codepen.io/martakmb).
-
-I enjoy working with is React. ⚛️ 
+I enjoy working with React ⚛️  and love CSS drawing 🎨 - making nice and funny images on [CodePen](https://codepen.io/martakmb).
 
 ### 👩‍💻 Work experience
 
