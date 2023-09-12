@@ -15,7 +15,7 @@ I get my first job in tech industry in 2018 at [RSQ Technologies](https://www.rs
 Last years I worked for my own. 🙌
 
 Outside of programming I'm instructor and book author (I learn owners how to make relaxing pet 🐶 massage). 
-For this project I build [websites](https://martamucha.pl/) and I'm currently working at React application for dog owners. 
+For this project I'm also front-end developer: I build [websites](https://martamucha.pl/) and I'm working at React application for dog owners. 
 
 ## 💬 How to reach me:
 * email - m.muchabalcerek@gmail.com
