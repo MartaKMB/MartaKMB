@@ -10,9 +10,7 @@ I enjoy working with React ⚛️  and love CSS drawing 🎨 - making nice and f
 
 ### 👩‍💻 Work experience
 
-I get my first job in tech industry in 2018 at [RSQ Technologies](https://www.rsqtechnologies.com/), where I was involved in developing web (React) applications.
-
-Last years I worked for my own. 🙌
+I get my first job in tech industry in 2018 at [RSQ Technologies](https://www.rsqtechnologies.com/), where I was involved in developing web (React) applications for healthcare providers. Currently I co-create largest website for readers and book recommendations in Poland [LubimyCzytac](https://lubimyczytac.pl/).
 
 Outside of programming I'm instructor and book author (I learn owners how to make relaxing pet 🐶 massage). 
 For this project I'm also front-end developer: I build [websites](https://martamucha.pl/) and I'm working at React application for dog owners. 
