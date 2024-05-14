@@ -17,5 +17,5 @@ For this project I'm also front-end developer: I build [websites](https://martam
 
 ## 💬 How to reach me:
 * email - m.muchabalcerek@gmail.com
-* making connections on [LinkedIn](https://www.linkedin.com/in/m-mucha-balcerek/)
+* making connections on [LinkedIn](https://www.linkedin.com/in/m-mucha-balcerek/) or on [DEV Community](https://dev.to/martakmb)
 
