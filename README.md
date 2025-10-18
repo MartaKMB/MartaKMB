@@ -1,21 +1,25 @@
 # Hi, I'm Marta 👋 🪰
 
-I'm a front-end developer who is passionate about creating technology to help people and make them smile. 😁
+I'm a front-end developer with over 6 years of experience, passionate about creating technology that genuinely helps people and makes them smile. 😁 Since 2017, I have been continuously learning and growing as a developer, starting as a self-taught coder and now deepening my fullstack skills by exploring Node.js, PHP, and databases.  
 
-### 🤓 Self-taught front-end developer
+I love working with React ⚛️ and have a special interest in CSS drawing 🎨 — you can see some of my creative experiments on [CodePen](https://codepen.io/martakmb).
 
-In 2017, I decided to learn how to code and enjoy the process until today. ✨ It's never ending story, and I like to learn new things.
+---
 
-I enjoy working with React ⚛️  and love CSS drawing 🎨 - making nice and funny images on [CodePen](https://codepen.io/martakmb).
+## 👩‍💻 Work Experience
 
-### 👩‍💻 Work experience
+I started my tech career in 2018 at [RSQ Technologies](https://www.rsqtechnologies.com/), where I developed React web applications for healthcare providers. Currently, I co-create the frontend of [LubimyCzytać.pl](https://lubimyczytac.pl/), the largest book community platform in Poland.  
 
-I get my first job in tech industry in 2018 at [RSQ Technologies](https://www.rsqtechnologies.com/), where I was involved in developing web (React) applications for healthcare providers. Currently I co-create largest website for readers and book recommendations in Poland [LubimyCzytac](https://lubimyczytac.pl/).
+---
 
-Outside of programming I'm instructor and book author (I learn owners how to make relaxing pet 🐶 massage). 
-For this project I'm also front-end developer: I build [websites](https://martamucha.pl/) and I'm working at React application for dog owners. 
+## 🐾 Outside of Tech
 
-## 💬 How to reach me:
-* email - m.muchabalcerek@gmail.com
-* making connections on [LinkedIn](https://www.linkedin.com/in/m-mucha-balcerek/) or on [DEV Community](https://dev.to/martakmb)
+Beyond programming, I run a project dedicated to animal massage. I created an original relaxation technique called GaSa, conduct workshops, and have [authored books](https://www.amazon.co.uk/dp/8394291368) that help pet owners better understand their companions.   
 
+---
+
+## 📫 How to reach me
+
+- Email: m.muchabalcerek@gmail.com  
+- LinkedIn: [in/m-mucha-balcerek](https://in/m-mucha-balcerek)  
+- DEV Community: [dev.to/martakmb](https://dev.to/martakmb)  
