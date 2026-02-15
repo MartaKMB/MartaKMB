@@ -1,24 +1,39 @@
-# Hi, I'm Marta 👋 🪰
+# Hi, I'm Marta 👋
 
-I'm a front-end developer with over 6 years of experience, passionate about creating technology that genuinely helps people and makes them smile. 😁 Since 2017, I have been continuously learning and growing as a developer, starting as a self-taught coder and now deepening my fullstack skills by exploring Node.js, PHP, and databases.  
+I'm a developer evolving into **data analytics**, combining a frontend engineering background with a strong statistical foundation. I specialize in turning complexity into clarity — translating technical systems and raw data into insights people can actually use.
 
-I love working with React ⚛️ and have a special interest in CSS drawing 🎨 — you can see some of my creative experiments on [CodePen](https://codepen.io/martakmb).
+Working on a large-scale production platform showed me firsthand how powerful data — and its interpretation — can be. That experience brought me back to my statistical roots and is driving my transition toward data analytics.
 
----
+## 📊 Current direction: Data Analytics
 
-## 👩‍💻 Work Experience
+I'm actively building skills and projects in:
 
-I started my tech career in 2018 at [RSQ Technologies](https://www.rsqtechnologies.com/), where I developed React web applications for healthcare providers. Currently, I co-create the frontend of [LubimyCzytać.pl](https://lubimyczytac.pl/), the largest book community platform in Poland.  
+* SQL (data querying & analysis)
+* Python for data analysis
+* Excel & Power BI
+* Statistics & data storytelling
 
----
+This GitHub is gradually shifting toward **data analytics projects** — exploratory analyses, dashboards, and practical case studies.
 
-## 🐾 Outside of Tech
+## 👩‍💻 Technical background
 
-Beyond programming, I run a project dedicated to animal massage. I created an original relaxation technique called GaSa, conduct workshops, and have [authored books](https://www.amazon.co.uk/dp/8394291368) that help pet owners better understand their companions.   
+I have 6+ years of experience as a frontend developer working with React and modern web technologies. My earlier repositories reflect this background and document my engineering journey.
 
----
+They remain part of my profile as evidence of strong technical foundations, but you’ll see an increasing focus on data-focused work.
 
-## 📫 How to reach me
+## 🧠 What connects it all
+
+Across my career — from software development to education and authorship — a constant theme has been helping others understand complex systems. Today, I apply that mindset to data: extracting meaning, communicating insights, and supporting better decisions.
+
+## 🐾 Beyond tech
+
+I'm also an author and educator. I created an relaxation method for animals (GaSa), run workshops, and wrote books helping people better understand their companions.
+
+## 🎯 What you’ll see here next
+
+More data analytics projects. Fewer frontend experiments. A clear direction toward data-driven work.
+
+## 📫 Contact
 
 - Email: m.muchabalcerek@gmail.com  
 - LinkedIn: [in/m-mucha-balcerek](https://in/m-mucha-balcerek)  
