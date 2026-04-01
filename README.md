@@ -9,6 +9,7 @@ Working on a large-scale production platform showed me firsthand how powerful da
 I'm actively building skills and projects in:
 
 * SQL (data querying & analysis)
+* Tableau
 * Python for data analysis
 * Excel & Power BI
 * Statistics & data storytelling
