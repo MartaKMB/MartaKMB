@@ -16,6 +16,8 @@ I'm actively building skills and projects in:
 
 This GitHub is gradually shifting toward **data analytics projects** — exploratory analyses, dashboards, and practical case studies.
 
+### Go to: 🤹 [Data Analysis Portfolio](https://martakmb.github.io/data-analysis-portfolio/)
+
 ## 👩‍💻 Technical background
 
 I have 6+ years of experience as a frontend developer working with React and modern web technologies. My earlier repositories reflect this background and document my engineering journey.
