@@ -104,17 +104,7 @@ I enjoy translating complex topics into clear, practical understanding — wheth
 
 ---
 
-# 🎯 Direction
-
-This portfolio is evolving toward:
-
-* data analytics,
-* product insights,
-* customer behavior analysis,
-* and data-driven problem solving.
-
-
-## 📫 Contact
+# 📫 Contact
 
 - Email: m.muchabalcerek@gmail.com  
 - LinkedIn: [in/m-mucha-balcerek](https://in/m-mucha-balcerek)  
