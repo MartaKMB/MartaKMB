@@ -1,40 +1,118 @@
 # Hi, I'm Marta 👋
 
-I'm a developer evolving into **data analytics**, combining a frontend engineering background with a strong statistical foundation. I specialize in turning complexity into clarity — translating technical systems and raw data into insights people can actually use.
+I’m a Data Analytics-focused professional with a strong technical and product background.
 
-Working on a large-scale production platform showed me firsthand how powerful data — and its interpretation — can be. That experience brought me back to my statistical roots and is driving my transition toward data analytics.
+I work at the intersection of **data, technology and user behavior** — turning complex information into clear, practical insights that support better decisions and better user experiences.
 
-## 📊 Current direction: Data Analytics
+My background combines:
 
-I'm actively building skills and projects in:
+* frontend engineering,
+* analytical thinking,
+* data visualization,
+* and user-centered problem solving.
 
-* SQL (data querying & analysis)
+Working on large-scale digital platforms taught me how important **data interpretation, usability and communication** are in real business and product environments.
+
+---
+
+# 📊 Current Focus
+
+I’m currently developing projects and skills in:
+
+* SQL
+* Python for data analysis (`pandas`, `matplotlib`)
 * Tableau
-* Python for data analysis
 * Excel & Power BI
-* Statistics & data storytelling
+* data visualization & data storytelling
+* user behavior and sales data analysis
+* product and customer insights
 
-This GitHub is gradually shifting toward **data analytics projects** — exploratory analyses, dashboards, and practical case studies.
+---
 
-### Go to: 🤹 [Data Analysis Portfolio](https://martakmb.github.io/data-analysis-portfolio/)
+# 📁 Featured Projects
 
-## 👩‍💻 Technical background
+## 📚 Amazon Book Sales Analysis
 
-I have 6+ years of experience as a frontend developer working with React and modern web technologies. My earlier repositories reflect this background and document my engineering journey.
+Analysis of self-published book sales data using Python and pandas.
 
-They remain part of my profile as evidence of strong technical foundations, but you’ll see an increasing focus on data-focused work.
+Focus areas:
 
-## 🧠 What connects it all
+* sales trends
+* seasonality
+* customer behavior
+* business insights
+* data visualization
 
-Across my career — from software development to education and authorship — a constant theme has been helping others understand complex systems. Today, I apply that mindset to data: extracting meaning, communicating insights, and supporting better decisions.
+Tech:
+`Python` `pandas` `matplotlib`
 
-## 🐾 Beyond tech
+---
 
-I'm also an author and educator. I created an relaxation method for animals (GaSa), run workshops, and wrote books helping people better understand their companions.
+## 🐾 Hovawart Breeding Data Analysis
 
-## 🎯 What you’ll see here next
+Analysis of breeding and genealogy data for the Hovawart dog breed.
 
-More data analytics projects. Fewer frontend experiments. A clear direction toward data-driven work.
+Focus areas:
+
+* pedigree analysis
+* data cleaning
+* exploratory analysis
+* relationship mapping
+* dashboarding & visualization
+
+Tech:
+`Excel` `PostgreSQL` `Tableau`
+
+---
+
+# 👩‍💻 Technical Background
+
+I have several years of experience as a frontend developer working with:
+
+* React
+* JavaScript / TypeScript
+* modern UI systems
+* dashboards
+* large-scale digital platforms
+
+This engineering background helps me approach analytics from both:
+
+* a technical perspective,
+* and a user/product perspective.
+
+---
+
+# 🧠 What Connects My Work
+
+Across product development, analytics and education, one theme has remained consistent:
+
+> helping people better understand complex systems, behaviors and information.
+
+That mindset is what naturally led me toward data analytics and product insights work.
+
+---
+
+# 🐾 Beyond Tech
+
+Outside of technology, I’m also:
+
+* an author,
+* educator,
+* and workshop creator focused on animal behavior and communication.
+
+I enjoy translating complex topics into clear, practical understanding — whether through data, products or education.
+
+---
+
+# 🎯 Direction
+
+This portfolio is evolving toward:
+
+* data analytics,
+* product insights,
+* customer behavior analysis,
+* and data-driven problem solving.
+
 
 ## 📫 Contact
 
