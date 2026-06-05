@@ -1,111 +1,94 @@
 # Hi, I'm Marta 👋
 
-I’m a Data Analytics-focused professional with a strong technical and product background.
+I work at the intersection of business, technology, data and user experience.
 
-I work at the intersection of **data, technology and user behavior** — turning complex information into clear, practical insights that support better decisions and better user experiences.
+My background combines several years of experience in software development with analytical thinking, user-centered problem solving and business process understanding. Throughout my career, I have worked on digital products, analytical dashboards and systems supporting business and user needs.
 
-My background combines:
+Today, my focus is on:
 
-* frontend engineering,
-* analytical thinking,
-* data visualization,
-* and user-centered problem solving.
+* Business Analysis
+* Data Analysis
+* Process Analysis
+* Business Intelligence
+* User & Customer Insights
+* Data Visualization and Storytelling
 
-Working on large-scale digital platforms taught me how important **data interpretation, usability and communication** are in real business and product environments.
+I enjoy understanding how systems work, how people use them and how data can support better business decisions.
 
----
+## 📂 Portfolio
 
-# 📊 Current Focus
+Case studies, business analyses and data projects:
 
-I’m currently developing projects and skills in:
-
-* SQL
-* Python for data analysis (`pandas`, `matplotlib`)
-* Tableau
-* Excel & Power BI
-* data visualization & data storytelling
-* user behavior and sales data analysis
-* product and customer insights
+👉 **Portfolio:** [portfolio link](https://martakmb.github.io/data-analysis-portfolio/)
 
 ---
 
-# 📁 Featured Projects
+## 📊 Featured Projects
 
-## 📚 Amazon Book Sales Analysis
+### 📦 Order Fulfillment Process Analysis
 
-Analysis of self-published book sales data using Python and pandas.
+Business process analysis of an e-commerce order fulfillment workflow, including:
 
-Focus areas:
+* process mapping (BPMN)
+* bottleneck identification
+* operational analysis
+* business recommendations
+* future-state process design
+
+**Focus:** Business Analysis · Process Analysis · Process Improvement
+
+---
+
+### 📚 Amazon Book Sales Analysis
+
+Analysis of self-published book sales data focused on:
 
 * sales trends
 * seasonality
-* customer behavior
+* product performance
 * business insights
 * data visualization
 
-Tech:
-`Python` `pandas` `matplotlib`
+**Focus:** Sales Analysis · Business Analysis · Data Analytics
 
 ---
 
-## 🐾 Hovawart Breeding Data Analysis
+## 👩‍💻 Technical Background
 
-Analysis of breeding and genealogy data for the Hovawart dog breed.
-
-Focus areas:
-
-* pedigree analysis
-* data cleaning
-* exploratory analysis
-* relationship mapping
-* dashboarding & visualization
-
-Tech:
-`Excel` `PostgreSQL` `Tableau`
-
----
-
-# 👩‍💻 Technical Background
-
-I have several years of experience as a frontend developer working with:
+I have several years of experience as a Frontend Developer working with:
 
 * React
 * JavaScript / TypeScript
-* modern UI systems
-* dashboards
+* analytical dashboards
 * large-scale digital platforms
+* user-facing applications
 
-This engineering background helps me approach analytics from both:
-
-* a technical perspective,
-* and a user/product perspective.
+This technical foundation helps me bridge the gap between business, users and technology.
 
 ---
 
-# 🧠 What Connects My Work
+## 🧠 What Connects My Work
 
-Across product development, analytics and education, one theme has remained consistent:
+Across software development, analytics, education and entrepreneurship, one theme has remained constant:
 
-> helping people better understand complex systems, behaviors and information.
+**making complex systems easier to understand and improve.**
 
-That mindset is what naturally led me toward data analytics and product insights work.
-
----
-
-# 🐾 Beyond Tech
-
-Outside of technology, I’m also:
-
-* an author,
-* educator,
-* and workshop creator focused on animal behavior and communication.
-
-I enjoy translating complex topics into clear, practical understanding — whether through data, products or education.
+Whether through data, processes, products or education, I enjoy turning complexity into practical insights and actionable recommendations.
 
 ---
 
-# 📫 Contact
+## 🐾 Beyond Tech
 
-- Email: m.muchabalcerek@gmail.com  
-- LinkedIn: [in/m-mucha-balcerek](https://in/m-mucha-balcerek)  
-- DEV Community: [dev.to/martakmb](https://dev.to/martakmb)  
+Outside technology, I'm also an author and educator focused on animal behavior and communication.
+
+Creating educational content, workshops and books taught me how to explain complex topics clearly — a skill that continues to shape how I approach analytics and business problems.
+
+---
+
+## 📫 Contact
+
+📧 Email: [m.muchabalcerek@gmail.com](mailto:m.muchabalcerek@gmail.com)
+
+💼 LinkedIn: [linkedin.com/in/m-mucha-balcerek](https://www.linkedin.com/in/m-mucha-balcerek/)
+
+🌐 Portfolio: [portfolio link](https://martakmb.github.io/data-analysis-portfolio/)
